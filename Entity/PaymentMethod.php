@@ -65,7 +65,7 @@ class PaymentMethod
     protected $script;
 
     /**
-     * Contstruct
+     * Construct
      *
      * @param string $id          Id
      * @param string $name        Name
